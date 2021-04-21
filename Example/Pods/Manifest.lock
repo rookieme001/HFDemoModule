@@ -1,0 +1,16 @@
+PODS:
+  - HFDemoModule (0.1.0)
+
+DEPENDENCIES:
+  - HFDemoModule (from `../`)
+
+EXTERNAL SOURCES:
+  HFDemoModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HFDemoModule: 13979fa41705c12fad6e40a972cea30976632fc8
+
+PODFILE CHECKSUM: a1f2913cb1d07945616d59dbef97e1be4a18a7c8
+
+COCOAPODS: 1.10.1
